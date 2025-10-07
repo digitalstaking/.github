@@ -1,82 +1,80 @@
-# StakFi: Driving the Next Generation of Digital Asset Yield
+# StakFi: Driving the Next Generation of Wealth
 
-[![Audits](https://img.shields.io/badge/Audits-Passed-green?style=for-the-badge)](https://stakfi.xyz/audits)
+[![Audits](https://imgshields.io/badge/Audits-Passed-green?style=for-the-badge)](https://stakfi.xyz/audits)
 [![Status](https://img.shields.io/badge/Platform-Operational-brightgreen?style=for-the-badge)](https://status.stakfi.xyz)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-[![Discord](https://img.shields.io/discord/your-discord-id?style=for-the-badge&logo=discord&label=Discord)](https://discord.gg/your-invite)
+[![License](https://img.shields.io/badge/License-Proprietary-blue?style=for-the-badge)](https://stakfi.xyz/terms)
+[![Support](https://img.shields.io/badge/Support-24/7-_?style=for-the-badge&logo=zendesk)](https://support.stakfi.xyz)
 
-**StakFi is a premier platform for digital asset management, providing institutional-grade yield strategies since 2021. We help clients grow their wealth by providing access to sophisticated, risk-managed yield opportunities on major digital assets, including BTC, ETH, USDC, and USDT.**
+**StakFi is the premier wealth platform built to grow your digital assets. Since 2021, we have been helping individuals, businesses, and institutions build long-term wealth by offering a comprehensive suite of digital asset solutions.**
 
-Our proprietary quantitative engine deploys capital across a spectrum of managed risk strategies, from secured T-Bill yields to early-stage liquidity provisioning. This allows our clients to select a product that aligns with their financial goals, from capital preservation to maximum alpha generation.
-
----
-
-## Our Products
-
-We offer three distinct, fixed-term products. You choose the term that fits your strategy, and our engine manages the complex allocations to generate your yield.
-
-| Product          | Term         | Strategy Focus                               | Ideal For                                    |
-| ---------------- | ------------ | -------------------------------------------- | -------------------------------------------- |
-| **FLEX Staking** | 30 Days      | Capital Preservation & Stable Yield          | Clients seeking high-yield savings           |
-| **PRO Staking**  | 180 Days     | Balanced Growth & Market-Neutral Alpha       | Long-term holders targeting significant growth |
-| **MAX Staking**  | 365 Days     | Maximum Alpha Generation & High-Growth       | Sophisticated investors seeking maximum returns  |
+Our approach unites cutting-edge products, robust infrastructure, and white-glove client care. We empower forward-thinking investors by unlocking new growth opportunities and driving the next generation of wealth.
 
 ---
 
-## How It Works: Our Quantitative Engine
+## Our Product Suite
 
-The core of StakFi is a sophisticated quantitative engine that actively manages and allocates the firm's entire capital pool across five distinct strategy tiers. This ensures diversification and optimizes for risk-adjusted returns.
+StakFi allows you to grow your savings by letting your assets work for you. Build your portfolio from a single app, designed for the modern investor.
 
-*   **Tier 1: Capital Preservation:** The foundation of our portfolio. Assets are deployed into the lowest-risk instruments available, including tokenized U.S. Treasury Bills and delta-neutral funding rate arbitrage.
+### Fixed-Term Savings
+Earn higher rates on your digital assets for a specific time period to achieve your long-term savings goals. Our fixed-term products are designed to provide enhanced, predictable returns for clients with a longer time horizon.
 
-*   **Tier 2: Core DeFi Yield:** Generating secure, crypto-native yield from the most battle-tested DeFi protocols, such as blue-chip liquid staking (ETH) and over-collateralized stablecoin lending.
+*   **180-Day Term:** A balanced approach targeting significant, risk-managed growth.
+*   **365-Day Term:** Designed to generate maximum yield for sophisticated, long-term investors.
 
-*   **Tier 3: Market-Neutral Alpha:** Exploiting market inefficiencies through complex, low-correlation strategies, including liquid restaking (EigenLayer) and basis trading on major altcoins.
-
-*   **Tier 4: Active Management:** Capitalizing on established market trends. This includes actively managed concentrated liquidity positions on top-tier exchanges to maximize fee generation.
-
-*   **Tier 5: Early-Stage Opportunities:** A carefully managed allocation to the crypto frontier, including early-stage liquidity provisioning for audited protocols and systematic incentive farming.
-
----
-
-## Security & Risk Management
-
-Our clients' peace of mind is our highest priority. The StakFi platform is built on a foundation of strong fundamentals and institutional-grade security.
-
-*   **Institutional-Grade Security:** Our platform architecture is non-custodial, and all smart contracts undergo rigorous audits by industry-leading security firms.
-
-*   **Proprietary Risk Framework:** Our engine's primary directive is risk management. Capital is diversified across all five tiers, and proprietary models constantly monitor market conditions to protect the portfolio.
-
-*   **Transparency:** We provide clients with a real-time analytics dashboard to monitor performance and asset allocation, ensuring full transparency over their holdings.
-
-*   **Proven Track Record:** StakFi is operated by DIGITAL 365 STAKING LTD (Company No. 13753947), a registered entity incorporated in 2021 with a proven track record of operational excellence.
+### Flexible Savings
+Build your wealth with daily compound interest while keeping your funds available. This product is ideal for capital preservation and high-yield savings, offering daily payouts with no lock-ups.
 
 ---
 
-## For Developers
+## Solutions For Every Investor
 
-Our protocol is built with robustness and security as primary considerations. We welcome community contributions and peer reviews.
+### For Individuals
+Whether you are just starting or managing a significant portfolio, our platform provides the tools to grow your savings effortlessly.
+*   **Grow Your Savings:** Let your assets work passively with our fixed and flexible term products.
+*   **Diversify Your Portfolio:** Access yield opportunities across a range of major digital assets.
+*   **Personalized Client Care:** Our dedicated team is available 24/7 to provide personal assistance.
 
-### Core Contracts (Conceptual)
-*   `/contracts/PortfolioController.sol`: The master contract governing allocation logic and risk parameters.
-*   `/contracts/TierVaults/`: Individual, audited vault contracts implementing the strategies for each tier.
-*   `/contracts/DepositVault.sol`: Handles user deposits, term lock-ups, and yield distribution.
+### For Institutions & Businesses
+We offer bespoke services built for those who demand flexibility, discretion, and trust.
+*   **Corporate & Family Office Accounts:** Create a dedicated account to build a digital asset treasury for your business.
+*   **Prime Brokerage:** Leverage an all-in-one solution for institutional investors, combining institutional-grade custody and advanced services.
+*   **Bespoke Solutions:** Access tailored onboarding, a dedicated relationship manager, and other exclusive benefits.
+
+---
+
+## Our Investment Strategy: The Quantitative Engine
+
+At the core of StakFi is a sophisticated quantitative engine that actively manages and allocates capital across a spectrum of strategies. This proprietary technology, developed by a team with experience from top-tier quantitative firms, allows us to manage risk and optimize for yield across all market conditions.
+
+Our engine's primary directive is risk management. It operates across five tiers, from the foundational security of **tokenized U.S. Treasury Bills** to the high-growth potential of **early-stage liquidity provisioning**, ensuring the portfolio is always diversified and resilient.
+
+---
+
+## Security & Compliance
+
+StakFi ensures compliance with applicable regulatory frameworks and provides a robust infrastructure to safely grow your savings. Our approach is built on a fundamentals-first approach to custody and risk management.
+
+*   **Proven Track Record:** Trusted since 2021, StakFi is operated by DIGITAL 365 STAKING LTD (Company No. 13753947).
+*   **Strong Financial Health:** We maintain a robust financial posture and adhere to strict regulatory compliance standards.
+*   **Institutional-Grade Security:** We employ strong 256-bit encryption and a multi-layered security architecture to protect client assets.
+
+---
+
+## Open Source & Developer Resources
+
+We believe in transparency and the power of community review. Key components and libraries developed by our team are open-sourced to allow for continuous peer review and enhancement.
 
 ### Get Started
-Clone the repository and install the dependencies:
+Clone our public repository to review our open-source libraries:
 ```bash
-git clone https://github.com/digitalstaking/stakfi-contracts.git
-cd stakfi-contracts
-npm install
-npm test
+git clone https://github.com/digitalstaking/stakfi-libraries.git
 ```
-
-## Community & Resources
 *   **Documentation:** [docs.stakfi.xyz](https://docs.stakfi.xyz)
-*   **Governance Forum:** [forum.stakfi.xyz](https://forum.stakfi.xyz)
-*   **GitHub:** [github.com/digitalstaking](https://github.com/digitalstaking)
-*   **Security Audits:** [stakfi.xyz/audits](https://stakfi.xyz/audits)
+*   **Security Audits:** [stakfi.xyz/security](https://stakfi.xyz/security)
+*   **Help Center:** [support.stakfi.xyz](https://support.stakfi.xyz)
 
 ---
 
-*Disclaimer: The value of digital assets can be volatile. Past performance is not indicative of future results. All StakFi services involve risk and are not suitable for all investors. This material is for general information purposes only and is not intended to provide and should not be relied on for tax, legal or accounting advice. You should consult a qualified professional before making any financial decisions.*
+### Disclaimer
+
+All or part of the StakFi Services, some features thereof, or some Digital Assets, are not available in certain jurisdictions, including where restrictions or limitations may apply, as indicated on the StakFi Platform and in the relevant general terms and conditions. While the nature of digital assets is unique, and when considering digital assets in the context of wealth enhancement, any such reference is for a general understanding of StakFi’s offerings. Materials related to StakFi’s services should not be treated as a guarantee of future results or as financial advice. When terms such as "up to" or "from" are used to denote limits, achieving these maximum or minimum thresholds may be conditional on additional actions or fulfilment of certain criteria and requirements that may not be attainable by all clients. This material is for general information purposes only and is not intended to provide and should not be relied on for tax, legal or accounting advice. You should consult a qualified professional, as this material is not tailored to your specific circumstances. When referencing digital assets as potential investments, any similarities with the traditional concept of investments are entirely circumstantial, therefore any parallels between them should not be interpreted as deliberate or intended.
