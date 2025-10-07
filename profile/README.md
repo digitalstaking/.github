@@ -1,20 +1,13 @@
-# StakFi: Dynamic Yield Intelligence
+# StakFi: The Tiered Alpha Engine
 
-[![Build Status](https://img.shields.io/github/actions/workflow/status/your-repo/stakfi/ci.yml?style=for-the-badge)](https://github.com/your-repo/stakfi/actions)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/digitalstaking/stakfi-contracts/ci.yml?style=for-the-badge)](https://github.com/digitalstaking/stakfi-contracts/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 [![Discord](https://img.shields.io/discord/your-discord-id?style=for-the-badge&logo=discord&label=Discord)](https://discord.gg/your-invite)
 [![Twitter](https://img.shields.io/twitter/follow/StakFiProtocol?style=for-the-badge&logo=twitter)](https://twitter.com/StakFiProtocol)
 
-**StakFi is a quantitative liquid staking protocol designed to maximize yield by dynamically allocating liquidity across the DeFi ecosystem. Our protocol leverages algorithmic strategies to offer optimized returns for every risk appetite.**
+**StakFi is a quantitative yield protocol that deploys capital through a proprietary Tiered Alpha Engine. We blend institutional-grade risk management with cutting-edge DeFi strategies to deliver optimized, non-custodial yield for every risk appetite.**
 
-## 📈 Live Protocol Stats
-
-| Metric                       | Value                   |
-| ---------------------------- | ----------------------- |
-| **Total Value Locked (TVL)** | `$125,480,000`          |
-| **Stakers**                  | `15,000+`               |
-| **Integrations**             | `40+ Protocols`         |
-| **Total Rewards Paid**       | `$18,200,000+`          |
+Our core philosophy is **Dynamic Risk Parity**. We don't just offer products; we manage a single, unified pool of capital across a spectrum of strategies, from tokenized T-Bills to early-stage liquidity provisioning. Your yield is a direct result of this sophisticated, actively managed engine.
 
 <br>
 <div align="center">
@@ -26,104 +19,85 @@
 
 ---
 
-## Core Concept: Algorithmic Yield Maximization
+## Your Access to the Engine: Choose Your Term
 
-StakFi isn't just another staking platform. It's an intelligent liquidity engine. Our quantitative models analyze hundreds of data points—including liquidity depth, volume, volatility, and smart contract risk—to deploy capital where it can generate the highest possible, risk-adjusted returns.
+As a user, you don't need to manage the complexity. Simply choose your lock-up period, and our engine automatically allocates your deposit across the five strategy tiers to generate the optimal risk-adjusted return.
 
-This allows us to offer two distinct, powerful yield strategies:
-
-*   🚀 **Quantum Yield:** High-alpha strategies targeting emerging opportunities for maximum returns.
-*   🛡️ **Foundation Yield:** Stable, reliable returns from battle-tested, blue-chip assets.
-
----
-
-## Our Yield Strategies
-
-### 🚀 Quantum Yield
-
-For users seeking maximum capital efficiency, Quantum Yield deploys funds into high-potential, higher-risk environments. Our engine actively manages positions to optimize for alpha.
-
--   **Target APR:** Up to **400%***
--   **Strategy:** Dynamic liquidity provisioning on new DEXs, staking in low-liquidity/high-growth PoS coins, and participating in early-stage yield farms.
--   **Ideal For:** Degens, experienced DeFi users, and those with a high risk tolerance.
-
-### 🛡️ Foundation Yield
-
-For those prioritizing capital preservation and steady growth, Foundation Yield focuses on the most secure and established corners of DeFi.
-
--   **Target APR:** **5-6%***
--   **Strategy:** Liquid staking on major Proof-of-Stake networks (e.g., Ethereum, Solana) and providing liquidity to blue-chip trading pairs on top-tier DEXs.
--   **Ideal For:** Institutions, long-term holders, and users seeking stable, passive income.
+| Product          | Lock-up      | Target Return Profile | Risk Profile  | Ideal For                               |
+| ---------------- | ------------ | --------------------- | ------------- | --------------------------------------- |
+| 🔒 **FLEX Staking** | 30 Days      | **Stable Yield**      | Low           | High-yield savings, capital preservation |
+| 📈 **PRO Staking**  | 180 Days     | **Balanced Growth**   | Medium        | Long-term holders, significant growth    |
+| 🚀 **MAX Staking**  | 365 Days     | **Maximum Alpha**     | High          | Sophisticated investors, maximum returns |
 
 ---
 
-## Why StakFi? Uncompromised & Intelligent.
+## How It Works: The Five Tiers of Yield
 
-| Feature               | Description                                                                                                                                                             |
-| --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 🧠 **Quantitative Edge**    | Our proprietary algorithms make data-driven decisions 24/7, removing emotion and human error to constantly hunt for the best yield opportunities.                     |
-| 🔓 **Non-Custodial**        | You retain full control over your assets. StakFi's smart contracts are designed so that only you can withdraw your funds. Your keys, your crypto. Always.             |
-| 🌐 **Radical Transparency** | All strategies, holdings, and performance metrics are verifiable on-chain. We provide real-time analytics and reporting to our community.                            |
-| 🔒 **Uncompromised Security** | Security is paramount. Our protocol has undergone extensive auditing by top-tier firms, is protected by a generous bug bounty program, and is continuously monitored. |
+Our engine actively rebalances capital across five distinct tiers, managed 24/7 by our quantitative models.
+
+### 🏛️ Tier 1: Foundation (The Citadel Layer)
+*   **Objective:** Absolute capital preservation & baseline yield (Target 4-7% APR).
+*   **Strategies:** Tokenized US T-Bills, Delta-Neutral Funding Rate Arbitrage on BTC/ETH.
+
+### 🛡️ Tier 2: Stabilized Growth (The Nexo Layer)
+*   **Objective:** Secure, crypto-native yield from battle-tested protocols (Target 7-12% APR).
+*   **Strategies:** Blue-Chip Liquid Staking (e.g., Lido stETH), A-List Stablecoin Lending (Aave, Compound).
+
+### 🧠 Tier 3: Alpha Seeker (The Quant Layer)
+*   **Objective:** Generate alpha through complex, market-neutral strategies (Target 15-40% APR).
+*   **Strategies:** Liquid Restaking (EigenLayer), Basis Trading on major altcoins.
+
+### 📈 Tier 4: Momentum Rider (The Active Trader Layer)
+*   **Objective:** Capitalize on established market trends with managed risk (Target 40-100% APR).
+*   **Strategies:** Actively Managed Concentrated Liquidity (Uniswap v3), Narrative-driven yield farms.
+
+### 🚀 Tier 5: Quantum Opportunities (The Venture Layer)
+*   **Objective:** Highest possible returns from the crypto frontier (Target 100-400%+ APR).
+*   **Strategies:** New Protocol Liquidity Launch Provisioning, Systematic Airdrop & Incentive Farming.
 
 ---
 
-## The StakFi Ecosystem
+## The StakFi Advantage
 
-StakFi's liquid staking tokens (e.g., `sfETH`) are designed to be composable across DeFi. Use your staked assets to unlock even more opportunities.
-
--   **Wallets:** MetaMask, Trust Wallet, Ledger Live
--   **DEXs:** Uniswap, Curve, SushiSwap
--   **Lending:** Aave, Compound
--   ...and over **40+ more integrations**. [Explore the full ecosystem.](https://stakfi.xyz/ecosystem)
-
----
-
-## 🏛️ Governed by the StakFi DAO
-
-StakFi is on a path to complete decentralization. Key protocol decisions, strategy parameters, and treasury management will be governed by holders of the `$STAKFI` token.
-
--   [Read the Governance Docs](https://docs.stakfi.xyz/governance)
--   [Participate in the Forum](https://forum.stakfi.xyz)
+| Feature                | Description                                                                                                                                                             |
+| ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🧠 **Managed Complexity**    | Access a multi-strategy quant fund's performance without the operational overhead. We manage the complexity, you receive the optimized yield.                        |
+| 🔒 **Institutional Security** | Your assets are deployed via non-custodial smart contracts. We never have access to your private keys. Security is paramount, with multiple audits and continuous monitoring. |
+| 📊 **Radical Transparency** | While our specific algorithms are proprietary, all fund allocations, strategy performance, and yields are verifiable on-chain through our real-time analytics dashboard. |
+| ⚡ **Algorithmic Edge**      | Our quant models, developed by a team with experience from top firms like Citadel, make data-driven allocation decisions 24/7, removing emotion and maximizing efficiency. |
 
 ---
 
 ## For Developers
 
-### Getting Started
+Our protocol is built to be robust and composable. We welcome contributions and integrations.
 
-Clone the repository and install the dependencies:
+### Core Contracts (Conceptual)
+-   `/contracts/PortfolioController.sol`: The master contract that governs allocation logic across tiers.
+-   `/contracts/TierVaults/`: Individual vault contracts implementing strategies for each tier.
+-   `/contracts/DepositVault.sol`: Handles user deposits, lock-up logic, and receipt token minting.
+
+### Get Started
 
 ```bash
-git clone https://github.com/your-repo/stakfi.git
-cd stakfi
+git clone https://github.com/digitalstaking/stakfi-contracts.git
+cd stakfi-contracts
 npm install
-```
-
-### Run Tests
-
-```bash
 npm test
 ```
 
-### Core Contracts
-
--   `/contracts/StrategyController.sol`: The core logic that allocates funds between different yield strategies.
--   `/contracts/vaults/QuantumVault.sol`: Smart contract for the high-risk Quantum Yield strategy.
--   `/contracts/vaults/FoundationVault.sol`: Smart contract for the low-risk Foundation Yield strategy.
--   `/contracts/tokens/StakFiToken.sol`: The liquid staking receipt token (e.g., sfETH).
-
 ---
 
-## Community & Resources
+## Governance & Community
+
+StakFi is governed by the `$STAKFI` token holders. Join our community to help shape the future of quantitative yield generation.
 
 -   **Docs:** [docs.stakfi.xyz](https://docs.stakfi.xyz)
--   **Blog:** [stakfi.xyz/blog](https://stakfi.xyz/blog)
--   **GitHub:** [github.com/your-repo/stakfi](https://github.com/your-repo/stakfi)
+-   **Governance Forum:** [forum.stakfi.xyz](https://forum.stakfi.xyz)
+-   **GitHub:** [github.com/digitalstaking](https://github.com/digitalstaking)
 -   **Audits:** [stakfi.xyz/audits](https://stakfi.xyz/audits)
 
 ---
 
 ### *Disclaimer
-
-*APR figures are dynamic, not guaranteed, and subject to change based on market conditions, network performance, and underlying protocol rewards. Staking and providing liquidity involve significant risk, including the potential for smart contract vulnerabilities and impermanent loss. Past performance is not indicative of future results. The value of crypto assets can be highly volatile. Please do your own research (DYOR) and never invest more than you are willing to lose. This is not financial advice.*
+*Target APR and return profiles are estimates based on back-testing and current market conditions. They are not guaranteed and are subject to change. All investment and staking activities involve significant risk, including but not limited to smart contract vulnerabilities, market volatility, and impermanent loss. Past performance is not indicative of future results. StakFi is a technology platform, not a registered financial advisor. Please do your own research (DYOR) and consult a professional before making any financial decisions.*
