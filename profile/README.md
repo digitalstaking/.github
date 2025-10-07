@@ -1,6 +1,6 @@
 # StakFi: Driving the Next Generation of Wealth
 
-[![Audits](https://imgshields.io/badge/Audits-Passed-green?style=for-the-badge)](https://stakfi.xyz/audits)
+[![Audits](https://img.shields.io/badge/Audits-Passed-green?style=for-the-badge)](https://stakfi.xyz/audits)
 [![Status](https://img.shields.io/badge/Platform-Operational-brightgreen?style=for-the-badge)](https://status.stakfi.xyz)
 [![License](https://img.shields.io/badge/License-Proprietary-blue?style=for-the-badge)](https://stakfi.xyz/terms)
 [![Support](https://img.shields.io/badge/Support-24/7-_?style=for-the-badge&logo=zendesk)](https://support.stakfi.xyz)
